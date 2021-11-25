@@ -1,3 +1,5 @@
+//S21233_Ganesh Shelar
+
 #include <iostream>
 #include <fstream>
 #include <stdio.h>
@@ -144,7 +146,7 @@ void search(int key)
         if (s.roll == key)
         {
             cout << "\nRecord is present their corresponding details are:\nRoll no :";
-            cout << s.roll << "\nName=" << s.name << "\nDivision=" << s.a << "\nAddress=" << s.add;
+            cout << s.roll << "\nName : " << s.name << "\nDivision: " << s.a << "\nAddress :" << s.add;
             flag = 1;
         }
     }
