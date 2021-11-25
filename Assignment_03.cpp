@@ -1,3 +1,5 @@
+//S21233_Ganesh Shelar
+
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 10
