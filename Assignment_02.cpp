@@ -1,4 +1,4 @@
-//S21233_GaneshShelar
+//S21233_Ganesh Shelar
 
 #include <iostream>
 #include <ctype.h>
